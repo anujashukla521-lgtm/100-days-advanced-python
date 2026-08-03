@@ -24,28 +24,6 @@ Through this 100-day challenge, I aim to:
 
 ---
 
-# 📂 Repository Structure
-
-
-100-days-advanced-python/
-
-│
-├── Day-01/
-│ ├── notes.md
-│ ├── examples.py
-│ ├── practice.py
-│ └── challenge.py
-│
-├── Day-02/
-│
-├── Projects/
-│
-├── Resources/
-│
-└── README.md
-
-
----
 
 # 📚 Daily Learning Format
 
